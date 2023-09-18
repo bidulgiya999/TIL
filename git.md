@@ -20,4 +20,5 @@
 - `git commit"`
     -  `staging area`에 올라간 파일들의 스냅샷을 찍어 `.git directory`에 저장 
     - `git commit -m "first commit"` : 일반적으로 -m 옵션을 넣어서 커밋메세지를 추가
-    - `git commit -m "first commit(message)"`
+    - `git commit -m "first commit(message)`
+    
